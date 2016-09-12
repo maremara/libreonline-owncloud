@@ -6,7 +6,7 @@
         LibreOffice Online app for ownCloud
     </description>
     <licence>MPLv2/LGPLv3+</licence>
-    <require>8.0</require>
+    <require>9.1</require>
     <author>Ozcan Esen, Faruk Uzun</author>
     <default_enable/>
     <ocsid></ocsid>
